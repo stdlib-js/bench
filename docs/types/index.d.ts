@@ -18,7 +18,7 @@
 
 // TypeScript Version: 2.0
 
-import Bench = require( '@stdlib/bench/harness' );
+import Bench = require( './../../harness' );
 
 
 // EXPORTS //

@@ -21,7 +21,7 @@
 // MODULES //
 
 var tape = require( 'tape' );
-var harness = require( '@stdlib/bench/harness' );
+var harness = require( './../harness' );
 var bench = require( './../lib' );
 
 
