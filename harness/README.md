@@ -1557,7 +1557,7 @@ ok 6 benchmark finished
 
 [nodejs-writable-stream]: https://nodejs.org/api/stream.html#stream_writable_streams
 
-[@stdlib/streams/node/transform]: https://github.com/stdlib-js/streams-utils-transform
+[@stdlib/streams/node/transform]: https://github.com/stdlib-js/streams-node-transform
 
 </section>
 
