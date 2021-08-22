@@ -18,7 +18,6 @@
   },
   "main": "./lib",
   "directories": {
-    "bin": "./bin",
     "doc": "./docs",
     "example": "./examples",
     "lib": "./lib",
@@ -39,15 +38,15 @@
     "url": "https://github.com/stdlib-js/stdlib/issues"
   },
   "dependencies": {
-    "@stdlib/assert": "github:stdlib-js/assert",
-    "@stdlib/cli": "github:stdlib-js/cli",
-    "@stdlib/fs": "github:stdlib-js/fs",
-    "@stdlib/process": "github:stdlib-js/process",
-    "@stdlib/regexp": "github:stdlib-js/regexp",
-    "@stdlib/streams": "github:stdlib-js/streams",
-    "@stdlib/string": "github:stdlib-js/string",
-    "@stdlib/time": "github:stdlib-js/time",
-    "@stdlib/utils": "github:stdlib-js/utils",
+    "@stdlib/assert": "github:stdlib-js/assert#main",
+    "@stdlib/cli": "github:stdlib-js/cli#main",
+    "@stdlib/fs": "github:stdlib-js/fs#main",
+    "@stdlib/process": "github:stdlib-js/process#main",
+    "@stdlib/regexp": "github:stdlib-js/regexp#main",
+    "@stdlib/streams": "github:stdlib-js/streams#main",
+    "@stdlib/string": "github:stdlib-js/string#main",
+    "@stdlib/time": "github:stdlib-js/time#main",
+    "@stdlib/utils": "github:stdlib-js/utils#main",
     "glob": "^7.0.5",
     "resolve": "^1.1.7"
   },
