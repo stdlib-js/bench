@@ -84,6 +84,20 @@ This function is an alias for [@stdlib/bench/harness][@stdlib/bench/harness].
 
 <!-- /.references -->
 
+<!-- Section for related `stdlib` packages. Do not manually edit this section, as it is automatically populated. -->
+
+<section class="related">
+
+* * *
+
+## See Also
+
+-   [`@stdlib/utils/timeit`][@stdlib/utils/timeit]: time a snippet.
+
+</section>
+
+<!-- /.related -->
+
 <!-- Section for all links. Make sure to keep an empty line after the `section` element and another before the `/section` close. -->
 
 
@@ -142,6 +156,12 @@ Copyright &copy; 2016-2021. The Stdlib [Authors][stdlib-authors].
 [stdlib-license]: https://raw.githubusercontent.com/stdlib-js/bench/main/LICENSE
 
 [@stdlib/bench/harness]: https://github.com/stdlib-js/bench/tree/main/harness
+
+<!-- <related-links> -->
+
+[@stdlib/utils/timeit]: https://github.com/stdlib-js/utils-timeit
+
+<!-- </related-links> -->
 
 </section>
 
