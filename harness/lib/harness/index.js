@@ -104,7 +104,7 @@ function createHarness( options, clbk ) {
 		if ( hasOwnProp( options, 'autoclose' ) ) {
 			opts.autoclose = options.autoclose;
 			if ( !isBoolean( opts.autoclose ) ) {
-				throw new TypeError( format( 'invalid option. `%s` option must be a boolean primitive. Option: `%s`.', 'autoclose', opts.autoclose ) );
+				throw new TypeError( format( 'invalid option. `%s` option must be a boolean. Option: `%s`.', 'autoclose', opts.autoclose ) );
 			}
 		}
 		cb = clbk;
@@ -145,7 +145,7 @@ function createHarness( options, clbk ) {
 		var err;
 		var b;
 		if ( !isString( name ) ) {
-			throw new TypeError( format( 'invalid argument. First argument must be a string primitive. Value: `%1`.', name ) );
+			throw new TypeError( format( 'invalid argument. First argument must be a string. Value: `%s`.', name ) );
 		}
 		opts = copy( DEFAULTS );
 		if ( arguments.length === 2 ) {
