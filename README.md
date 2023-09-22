@@ -52,7 +52,7 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import bench from 'https://cdn.jsdelivr.net/gh/stdlib-js/bench@esm/index.mjs';
+import bench from 'https://cdn.jsdelivr.net/gh/stdlib-js/bench@v0.1.0-esm/index.mjs';
 ```
 
 #### bench( name\[, options]\[, benchmark] )
