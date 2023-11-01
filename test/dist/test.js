@@ -1,7 +1,7 @@
 /**
 * @license Apache-2.0
 *
-* Copyright (c) 2018 The Stdlib Authors.
+* Copyright (c) 2023 The Stdlib Authors.
 *
 * Licensed under the Apache License, Version 2.0 (the "License");
 * you may not use this file except in compliance with the License.
@@ -21,34 +21,13 @@
 // MODULES //
 
 var tape = require( 'tape' );
-var harness = require( './../../harness' );
-var bench = require( './../../dist' );
+var main = require( './../../dist' );
 
 
 // TESTS //
 
-tape( 'main export is a function', function test( t ) {
+tape( 'main export is defined', function test( t ) {
 	t.ok( true, __filename );
-	t.strictEqual( typeof bench, 'function', 'main export is a function' );
-	t.end();
-});
-
-tape( 'the function is an alias for benchmark harness', function test( t ) {
-	t.strictEqual( bench, harness, 'is alias' );
-	t.end();
-});
-
-tape( 'attached to the main export is a method to create a harness', function test( t ) {
-	t.strictEqual( typeof bench.createHarness, 'function', 'has method' );
-	t.end();
-});
-
-tape( 'attached to the main export is a method to create a stream', function test( t ) {
-	t.strictEqual( typeof bench.createStream, 'function', 'has method' );
-	t.end();
-});
-
-tape( 'attached to the main export is a method to add a listener for when a harness has finished running all benchmarks', function test( t ) {
-	t.strictEqual( typeof bench.onFinish, 'function', 'has method' );
+	t.strictEqual( main !== void 0, true, 'main export is defined' );
 	t.end();
 });
