@@ -52,6 +52,11 @@ limitations under the License.
 ## Usage
 
 ```javascript
+import bench from 'https://cdn.jsdelivr.net/gh/stdlib-js/bench@esm/index.mjs';
+```
+The previous example will load the latest bundled code from the esm branch. Alternatively, you may load a specific version by loading the file from one of the [tagged bundles](https://github.com/stdlib-js/bench/tags). For example,
+
+```javascript
 import bench from 'https://cdn.jsdelivr.net/gh/stdlib-js/bench@v0.2.0-esm/index.mjs';
 ```
 
