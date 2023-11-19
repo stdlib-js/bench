@@ -1,6 +1,6 @@
 {
   "name": "@stdlib/bench",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "Benchmark harness.",
   "license": "Apache-2.0",
   "author": {
