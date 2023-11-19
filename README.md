@@ -52,7 +52,7 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import bench from 'https://cdn.jsdelivr.net/gh/stdlib-js/bench@deno/mod.js';
+import bench from 'https://cdn.jsdelivr.net/gh/stdlib-js/bench@v0.2.1-deno/mod.js';
 ```
 
 #### bench( name\[, options]\[, benchmark] )
