@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2024-08-01)
+## Unreleased (2024-08-03)
 
 <section class="packages">
 
@@ -20,7 +20,7 @@
 
 A total of 1 person contributed to this release. Thank you to this contributor:
 
--   Athan Reines
+-   Philipp Burckhardt
 
 </section>
 
@@ -32,7 +32,7 @@ A total of 1 person contributed to this release. Thank you to this contributor:
 
 <details>
 
--   [`22c4d29`](https://github.com/stdlib-js/stdlib/commit/22c4d29898e2b5bb4cb071a6b7f62536027eaf28) - **docs:** remove blank line _(by Athan Reines)_
+-   [`4c5b60e`](https://github.com/stdlib-js/stdlib/commit/4c5b60e5137fac4f946d80d6b7055e8bd23b5d97) - **chore:** resolve lint errors and fix typos _(by Philipp Burckhardt)_
 
 </details>
 
@@ -72,15 +72,42 @@ A total of 1 person contributed to this release. Thank you to this contributor:
 
 ### Packages
 
+<section class="package" id="bench-harness-v0.3.0">
+
+#### [@stdlib/bench/harness](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/bench/harness)
+
+<details>
+
+No changes reported for this release.</details>
+
+</section>
+
+<!-- /.package -->
+
 </section>
 
 <!-- /.packages -->
+
+<section class="contributors">
+
+### Contributors
+
+A total of 1 person contributed to this release. Thank you to this contributor:
+
+-   Philipp Burckhardt
+
+</section>
+
+<!-- /.contributors -->
 
 <section class="commits">
 
 ### Commits
 
 <details>
+
+-   [`dea49e0`](https://github.com/stdlib-js/stdlib/commit/dea49e03ab5571233e3da26835a6a6d3256d5737) - **docs:** use single quotes in require calls instead of backticks _(by Philipp Burckhardt)_
+-   [`330fef2`](https://github.com/stdlib-js/stdlib/commit/330fef2b1657cbd3d53fba278d995d7294c766ac) - **test:** use relative paths due to being internal require _(by Philipp Burckhardt)_
 
 </details>
 
@@ -94,15 +121,54 @@ A total of 1 person contributed to this release. Thank you to this contributor:
 
 ### Packages
 
+<section class="package" id="bench-v0.2.1">
+
+#### [@stdlib/bench](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/bench)
+
+<details>
+
+No changes reported for this release.</details>
+
+</section>
+
+<!-- /.package -->
+
+<section class="package" id="bench-harness-v0.2.1">
+
+#### [@stdlib/bench/harness](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/bench/harness)
+
+<details>
+
+No changes reported for this release.</details>
+
+</section>
+
+<!-- /.package -->
+
 </section>
 
 <!-- /.packages -->
+
+<section class="contributors">
+
+### Contributors
+
+A total of 1 person contributed to this release. Thank you to this contributor:
+
+-   Philipp Burckhardt
+
+</section>
+
+<!-- /.contributors -->
 
 <section class="commits">
 
 ### Commits
 
 <details>
+
+-   [`bcb4079`](https://github.com/stdlib-js/stdlib/commit/bcb4079adf3e31d33d28db5dff21558c9e6bd5be) - **build:** remove and replace tslint directives _(by Philipp Burckhardt)_
+-   [`8fbd70f`](https://github.com/stdlib-js/stdlib/commit/8fbd70f16653c25dfd2094511555c77d523c1126) - **build:** replace tslint directive with eslint equivalent _(by Philipp Burckhardt)_
 
 </details>
 
@@ -138,15 +204,112 @@ A total of 1 person contributed to this release. Thank you to this contributor:
 
 ### Packages
 
+<section class="package" id="bench-v0.1.0">
+
+#### [@stdlib/bench](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/bench)
+
+<details>
+
+<section class="features">
+
+##### Features
+
+-   [`898e8e4`](https://github.com/stdlib-js/stdlib/commit/898e8e45b2ff0b16c3b7a04786f4e2577422f5b6) - update minimum TypeScript version
+
+</section>
+
+<!-- /.features -->
+
+<section class="breaking-changes">
+
+##### BREAKING CHANGES
+
+-   [`898e8e4`](https://github.com/stdlib-js/stdlib/commit/898e8e45b2ff0b16c3b7a04786f4e2577422f5b6): update minimum TypeScript version
+-   [`898e8e4`](https://github.com/stdlib-js/stdlib/commit/898e8e45b2ff0b16c3b7a04786f4e2577422f5b6): update minimum TypeScript version to 4.1 
+
+    -   To migrate, users should upgrade their TypeScript version to at least version 4.1.
+
+</section>
+
+<!-- /.breaking-changes -->
+
+</details>
+
+</section>
+
+<!-- /.package -->
+
+<section class="package" id="bench-harness-v0.1.0">
+
+#### [@stdlib/bench/harness](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/bench/harness)
+
+<details>
+
+<section class="features">
+
+##### Features
+
+-   [`898e8e4`](https://github.com/stdlib-js/stdlib/commit/898e8e45b2ff0b16c3b7a04786f4e2577422f5b6) - update minimum TypeScript version
+
+</section>
+
+<!-- /.features -->
+
+<section class="breaking-changes">
+
+##### BREAKING CHANGES
+
+-   [`898e8e4`](https://github.com/stdlib-js/stdlib/commit/898e8e45b2ff0b16c3b7a04786f4e2577422f5b6): update minimum TypeScript version
+-   [`898e8e4`](https://github.com/stdlib-js/stdlib/commit/898e8e45b2ff0b16c3b7a04786f4e2577422f5b6): update minimum TypeScript version to 4.1 
+
+    -   To migrate, users should upgrade their TypeScript version to at least version 4.1.
+
+</section>
+
+<!-- /.breaking-changes -->
+
+</details>
+
+</section>
+
+<!-- /.package -->
+
 </section>
 
 <!-- /.packages -->
+
+<section class="breaking-changes">
+
+### BREAKING CHANGES
+
+-   [`898e8e4`](https://github.com/stdlib-js/stdlib/commit/898e8e45b2ff0b16c3b7a04786f4e2577422f5b6): update minimum TypeScript version
+-   [`898e8e4`](https://github.com/stdlib-js/stdlib/commit/898e8e45b2ff0b16c3b7a04786f4e2577422f5b6): update minimum TypeScript version to 4.1 
+
+    -   To migrate, users should upgrade their TypeScript version to at least version 4.1.
+
+</section>
+
+<!-- /.breaking-changes -->
+
+<section class="contributors">
+
+### Contributors
+
+A total of 1 person contributed to this release. Thank you to this contributor:
+
+-   Philipp Burckhardt
+
+</section>
+
+<!-- /.contributors -->
 
 <section class="commits">
 
 ### Commits
 
 <details>
+
+-   [`898e8e4`](https://github.com/stdlib-js/stdlib/commit/898e8e45b2ff0b16c3b7a04786f4e2577422f5b6) - **feat:** update minimum TypeScript version _(by Philipp Burckhardt)_
 
 </details>
 
