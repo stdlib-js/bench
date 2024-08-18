@@ -158,8 +158,8 @@ Copyright &copy; 2016-2024. The Stdlib [Authors][stdlib-authors].
 [npm-image]: http://img.shields.io/npm/v/@stdlib/bench.svg
 [npm-url]: https://npmjs.org/package/@stdlib/bench
 
-[test-image]: https://github.com/stdlib-js/bench/actions/workflows/test.yml/badge.svg?branch=v0.4.0
-[test-url]: https://github.com/stdlib-js/bench/actions/workflows/test.yml?query=branch:v0.4.0
+[test-image]: https://github.com/stdlib-js/bench/actions/workflows/test.yml/badge.svg?branch=v0.4.1
+[test-url]: https://github.com/stdlib-js/bench/actions/workflows/test.yml?query=branch:v0.4.1
 
 [coverage-image]: https://img.shields.io/codecov/c/github/stdlib-js/bench/main.svg
 [coverage-url]: https://codecov.io/github/stdlib-js/bench?branch=main
