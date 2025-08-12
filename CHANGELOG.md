@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-08-05)
+## Unreleased (2025-08-12)
 
 <section class="issues">
 
@@ -24,6 +24,7 @@ A total of 2 issues were closed in this release:
 
 <details>
 
+-   [`0f7607a`](https://github.com/stdlib-js/stdlib/commit/0f7607a1d5bc88b5ee38d5091725678eafd304f6) - **docs:** remove trailing whitespace _(by Philipp Burckhardt)_
 -   [`6eee151`](https://github.com/stdlib-js/stdlib/commit/6eee15199727d04e3757e66f38384e97b8a333da) - **style:** fix indentation in JSON files _(by Philipp Burckhardt)_
 -   [`aa8d147`](https://github.com/stdlib-js/stdlib/commit/aa8d1471fbee3c3046e5df64bee7a70cefdd8f30) - **chore:** fix JavaScript lint errors [(#7734)](https://github.com/stdlib-js/stdlib/pull/7734) _(by Siddhesh waje, Athan Reines)_
 -   [`875aa06`](https://github.com/stdlib-js/stdlib/commit/875aa068bc5e55770dc692daf8debd3cff8d86e7) - **chore:** fix JavaScript lint errors [(#7443)](https://github.com/stdlib-js/stdlib/pull/7443) _(by Daniel Hernandez Gomez, Athan Reines)_
