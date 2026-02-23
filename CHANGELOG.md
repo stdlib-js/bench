@@ -4,15 +4,15 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-12-17)
+## Unreleased (2026-02-23)
 
 <section class="issues">
 
 ### Closed Issues
 
-A total of 3 issues were closed in this release:
+A total of 4 issues were closed in this release:
 
-[#7440](https://github.com/stdlib-js/stdlib/issues/7440), [#7553](https://github.com/stdlib-js/stdlib/issues/7553), [#8213](https://github.com/stdlib-js/stdlib/issues/8213)
+[#7440](https://github.com/stdlib-js/stdlib/issues/7440), [#7553](https://github.com/stdlib-js/stdlib/issues/7553), [#8213](https://github.com/stdlib-js/stdlib/issues/8213), [#10355](https://github.com/stdlib-js/stdlib/issues/10355)
 
 </section>
 
@@ -24,6 +24,7 @@ A total of 3 issues were closed in this release:
 
 <details>
 
+-   [`5df50ac`](https://github.com/stdlib-js/stdlib/commit/5df50ac0f9c50b825e81aae2e10a3d843692e140) - **style:** disable lint rule [(#10356)](https://github.com/stdlib-js/stdlib/pull/10356) _(by nickolaif-svg, Athan Reines)_
 -   [`32e2924`](https://github.com/stdlib-js/stdlib/commit/32e2924cea84c650a1bbde85ea6e4143c6e7c3b4) - **chore:** fix JavaScript lint errors [(#8214)](https://github.com/stdlib-js/stdlib/pull/8214) _(by Vara Rahul Rajana, Athan Reines)_
 -   [`7add020`](https://github.com/stdlib-js/stdlib/commit/7add0201c13e56a0381926ccfd4073c84eaf2ed4) - **test:** use standardized assertion messages and fix lint errors _(by Philipp Burckhardt)_
 -   [`07f7c05`](https://github.com/stdlib-js/stdlib/commit/07f7c0522c73e6ad9505e1d45035ae439344200d) - **test:** use standardized assertion messages and fix lint errors _(by Philipp Burckhardt)_
@@ -43,13 +44,14 @@ A total of 3 issues were closed in this release:
 
 ### Contributors
 
-A total of 5 people contributed to this release. Thank you to the following contributors:
+A total of 6 people contributed to this release. Thank you to the following contributors:
 
 -   Athan Reines
 -   Daniel Hernandez Gomez
 -   Philipp Burckhardt
 -   Siddhesh waje
 -   Vara Rahul Rajana
+-   nickolaif-svg
 
 </section>
 
