@@ -2,6 +2,53 @@
 
 > Package changelog.
 
+<section class="release" id="unreleased">
+
+## Unreleased (2026-11-13)
+
+<section class="issues">
+
+### Closed Issues
+
+This release closes the following issue:
+
+[#16548](https://github.com/stdlib-js/stdlib/issues/16548)
+
+</section>
+
+<!-- /.issues -->
+
+<section class="commits">
+
+### Commits
+
+<details>
+
+-   [`de93323`](https://github.com/stdlib-js/stdlib/commit/de93323eddec8a839dcb23302c39c25faf32d92c) - **style:** remove unused ESLint disable directive [(#16552)](https://github.com/stdlib-js/stdlib/pull/16552) _(by Pawan Hirumina, Athan Reines)_
+
+</details>
+
+</section>
+
+<!-- /.commits -->
+
+<section class="contributors">
+
+### Contributors
+
+A total of 2 people contributed to this release. Thank you to the following contributors:
+
+-   Athan Reines
+-   Pawan Hirumina
+
+</section>
+
+<!-- /.contributors -->
+
+</section>
+
+<!-- /.release -->
+
 <section class="release" id="v0.5.1">
 
 ## 0.5.1 (2026-06-05)
